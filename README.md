@@ -1,3 +1,3 @@
 Before USING 
 -
-pip install pytube
+$ pip install pytube
